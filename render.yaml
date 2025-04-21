@@ -4,4 +4,4 @@ staticSites:
     env: static
     routes:
       - path: /*
-        src: index.html
+        src: /index.html
