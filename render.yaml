@@ -1,0 +1,7 @@
+staticSites:
+  - name: render-portfolio
+
+    env: static
+    routes:
+      - path: /*
+        src: index.html
