@@ -1,6 +1,5 @@
 staticSites:
-  - name:render-portfolio
-
+  - name: render-portfolio
     env: static
     routes:
       - path: /*
